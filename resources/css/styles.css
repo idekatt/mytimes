@@ -51,6 +51,7 @@ body  {
 
 .navigation-items li {
   display: inline-block;
+  margin: 0 10px 0 0;
 }
 
 .navigation-items li span a {
